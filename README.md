@@ -52,7 +52,7 @@ A powerful, interactive code visualization and execution environment built with 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Jimmyu2foru18/Code-Visualization-Sandbox.git
+   git clone https://github.com/Jimmyu2foru18/Code-Visualization-Sandbox.git code-visualization-sandbox
    cd code-visualization-sandbox
    ```
 
