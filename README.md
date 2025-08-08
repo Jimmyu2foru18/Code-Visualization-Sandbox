@@ -2,7 +2,7 @@
 
 A powerful, interactive code visualization and execution environment built with Next.js, React, and modern web technologies. This sandbox allows developers to write, execute, and visualize JavaScript code with real-time insights into execution flow, memory usage, call stacks, and performance metrics.
 
-## 🚀 Features
+## Features
 
 ### Core Functionality
 - **Interactive Code Editor**: Monaco Editor with syntax highlighting, auto-completion, and error detection
@@ -37,7 +37,7 @@ A powerful, interactive code visualization and execution environment built with 
 - **Performance Tutorials**: Learn optimization techniques
 - **Interactive Learning**: Hands-on coding with immediate feedback
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend Framework**: Next.js 14 with App Router
 - **UI Library**: React 18 with Hooks
@@ -48,7 +48,7 @@ A powerful, interactive code visualization and execution environment built with 
 - **Visualization**: D3.js for data visualization
 - **Icons**: Lucide React for consistent iconography
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**:
    ```bash
@@ -69,7 +69,7 @@ A powerful, interactive code visualization and execution environment built with 
 4. **Open your browser**:
    Navigate to `http://localhost:3000`
 
-## 🎯 Usage
+## Usage
 
 ### Getting Started
 1. **Load an Example**: Click on the sidebar to browse algorithm examples
@@ -92,7 +92,7 @@ A powerful, interactive code visualization and execution environment built with 
 - **Data Structures**: Linked Lists, Binary Trees
 - **Graph Algorithms**: DFS, BFS
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -119,7 +119,7 @@ src/
 └── visualizations/        # D3.js visualizations
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 Create a `.env.local` file for environment-specific settings:
@@ -133,7 +133,7 @@ NEXT_PUBLIC_VERSION="1.0.0"
 - **Examples**: Add new algorithms in `src/examples/algorithms.js`
 - **Visualizations**: Create custom D3.js visualizations in `src/visualizations/`
 
-## 🚀 Deployment
+## Deployment
 
 ### Vercel (Recommended)
 1. Push your code to GitHub
